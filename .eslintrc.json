@@ -1,8 +1,4 @@
 {
   "extends": "next",
-   "overrideConfig": {
-     "linterOptions": {
-       "reportUnusedDisableDirectives": true
-     }
-    }
+  "overrideConfig.linterOptions.reportUnusedDisableDirectives": true
 }
